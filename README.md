@@ -4,11 +4,10 @@
 
 
 - [Flink CDC 2.0 设计与优化详解](https://mp.weixin.qq.com/s/iwY5975XXp7QOBeV0q4TfQ)
-- [Flink CDC 2.0 设计与优化详解](https://mp.weixin.qq.com/s/iwY5975XXp7QOBeV0q4TfQ)
-- [Flink CDC 2.0 设计与优化详解](https://mp.weixin.qq.com/s/iwY5975XXp7QOBeV0q4TfQ)
 
 
-欢迎关注 **Flink中文社区** 和 **Java大咖说** 了解更多一线Flink资讯
+
+欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
 
 
 
