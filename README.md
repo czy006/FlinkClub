@@ -10,6 +10,13 @@
 
 欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
 
+# 最新消息
+
+关注 年度 **Flink Asia 2021 峰会**，获取当前前沿技术
+- [官方入口](https://flink-forward.org.cn/)
+
+部分大会优秀文章将会后续呈上～
+最近正在编写志愿者心得，有望尽快和大家分享社区相关内容
 
 
 <img src="./imgs/java_talkfun.png" alt="flink-china" style="zoom:40%;" />
