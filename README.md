@@ -3,6 +3,7 @@
 如果觉得对你有帮助点击右上角的Start⭐和关注社区个人公众号️，你的支持是我前进动力~~~
 
 欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
+公众号目前正在调整中
 
 <img src="./imgs/java_talkfun.png" alt="flink-china" style="zoom:40%;" />
 
@@ -10,6 +11,12 @@
 
 关注 年度 **Flink Asia 2021 峰会**，获取当前前沿技术
 - [官方入口](https://flink-forward.org.cn/)
+
+关注 尚硅谷最新发布Flink1.13课程 **2022版Flink1.13实战教程**，获取当前最新版本知识
+- [视频入口](https://www.bilibili.com/video/BV133411s7Sa)
+
+关注 尚硅谷与StreamX合作研发的课程 **【尚硅谷】大数据技术之StreamX（配置丨开发丨部署丨运维）**，获取当前前沿实时计算平台技术
+- [视频入口](https://www.bilibili.com/video/BV1wb4y1H76Q)
 
 部分大会优秀文章将会后续呈上～
 最近正在编写志愿者心得，有望尽快和大家分享社区相关内容
