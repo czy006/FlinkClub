@@ -1,6 +1,18 @@
 # FlinkClub
 这是我自己的Flink中文社区翻译稿存储仓库，用于提供给需要朋友进行二次创作，转载和二次创作请著名Flink中文社区，谢谢Thanks♪(･ω･)ﾉ
-如果觉得对你有帮助点击右上角的Start⭐和关注社区个人公众号️，你的支持是我前进动力~~~
+如果觉得对你有帮助点击右上角的Start⭐和关注社区个人公众号️，你的支持是我前进动力~~~ （公众号目前改版中，内容较少，不会推送任何广告，纯技术，
+放心关注）
+
+# 个人简介
+
+- Apache Flink Web Contributions
+- Apache CarbonData Contributions
+- StreamX Contributions
+
+各位好，我是来自Apache Flink 社区志愿者 ConradJam，与此同时是StreamX Contributions
+目前主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发，为公司构建部署、提交作业的一站式 Flink 
+智能作业平台和 SQL 平台
+
 
 欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
 公众号目前正在调整中
@@ -19,12 +31,7 @@
 - [视频入口](https://www.bilibili.com/video/BV1wb4y1H76Q)
 
 部分大会优秀文章将会后续呈上～
-最近正在编写志愿者心得，有望尽快和大家分享社区相关内容
-于此同时正在计划产出Flink进阶知识，目前Github和许多公众号都是一些基础知识和一些低版本的Flink基础案例，希望产出一些进阶知识回馈各位读者
-其中可能包括以下内容
-- 源码分析
-- Flink SQL 调优
-- CheckPoint 和 状态相关调优知识
+最近正在编写Flink K8S Operator，社区正式发布时候会和大家分享
 
 ## Flink特性
 
