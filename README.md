@@ -1,13 +1,12 @@
 # FlinkClub
 这是我自己的Flink中文社区翻译稿存储仓库以及部分Flink文章资源，用于提供给需要朋友进行二次创作，转载和二次创作请著名Flink中文社区，谢谢Thanks♪(･ω･)ﾉ 
 如果觉得对你有帮助点击右上角的Start⭐和关注社区个人公众号️，你的支持是我前进动力~~~ （公众号目前改版中，内容较少，不会推送任何广告，纯技术，
-放心关注）
+放心关注）后续将改版为在线技术博客形式
 
 # 个人简介
 
-- Apache Flink Web Contributions
-- Apache CarbonData Contributions
-- StreamX Contributions
+- Apache Flink Web & K8S Operator Contributions 负责云原生相关功能开发
+- Apache StreamPark Contributions
 
 各位好，我是来自Apache Flink 社区志愿者 ConradJam， 目前主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发，为公司构建部署、提交作业的一站式 Flink 
 智能作业平台和 SQL 平台
@@ -19,11 +18,14 @@
 
 # 最新消息
 
-关注 **CSDN-云原生峰会-Flink专场**，获取当前最前Flink云原生技术，由我演讲的Flink K8S Operator 相关资料和文章后续送上
-- [直播&回放入口](https://marketing.csdn.net/p/3babe71e2d4612a3092862aacf0f83ab)
+关注 **FFA 2022**，获取当前最前Flink技术
+- [FFA大会入口](https://flink-forward.org.cn)
 
-关注 年度 **Flink Asia 2021 峰会**，获取当前前沿技术
-- [官方入口](https://flink-forward.org.cn/)
+关注 **开源社-第七届开全球源峰会**，获取当前最前Flink K8S Operator 1.2版本中相关动态信息
+- [直播&回放入口](https://mp.weixin.qq.com/s/76ekZAfVs320GQ_xbEwwhQ)
+
+关注 **CSDN-云原生峰会-Flink专场**，获取当前最前Flink云原生技术，由我演讲的Flink K8S Operator 相关资料已在仓库中
+- [直播&回放入口](https://marketing.csdn.net/p/3babe71e2d4612a3092862aacf0f83ab)
 
 关注 尚硅谷最新发布Flink1.13课程 **2022版Flink1.13实战教程**，获取当前最新版本知识
 - [视频入口](https://www.bilibili.com/video/BV133411s7Sa)
