@@ -1,14 +1,17 @@
 # FlinkClub
 这是我自己的Flink中文社区翻译稿存储仓库以及部分Flink文章资源，用于提供给需要朋友进行二次创作，转载和二次创作请著名Flink中文社区，谢谢Thanks♪(･ω･)ﾉ 
 如果觉得对你有帮助点击右上角的Start⭐和关注社区个人公众号️，你的支持是我前进动力~~~ （公众号目前改版中，内容较少，不会推送任何广告，纯技术，
-放心关注）后续将改版为在线技术博客形式
+放心关注）
+
+- [在线阅读入口](https://czy006.github.com)
 
 # 个人简介
 
-- Apache Flink Web & K8S Operator Contributions 负责云原生相关功能开发
-- Apache StreamPark Contributions
+- Apache Flink Contributor 
+- Apache Flink K8S Operator Contributor 负责云原生相关功能开发
+- Apache StreamPark Contributor
 
-各位好，我是来自Apache Flink 社区志愿者 ConradJam， 目前主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发，为公司构建部署、提交作业的一站式 Flink 
+各位好，我是来自 **Apache Flink** 社区志愿者 ConradJam， 目前主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发，为公司构建部署、提交作业的一站式 Flink 
 智能作业平台和 SQL 平台
 
 欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
