@@ -3,19 +3,18 @@
 如果觉得对你有帮助点击右上角的Start⭐和关注社区个人公众号️，你的支持是我前进动力~~~ （公众号目前改版中，内容较少，不会推送任何广告，纯技术，
 放心关注）
 
-- [在线阅读入口](https://czy006.github.io)
+- [博客在线阅读入口](https://czy006.github.io)
 
 # 个人简介
 
-- Apache Flink Contributor 
-- Apache Flink K8S Operator Contributor 负责云原生相关功能开发
+- Apache Flink Contributor
 - Apache StreamPark Contributor
 
 各位好，我是来自 **Apache Flink** 社区志愿者 ConradJam， 目前主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发，为公司构建部署、提交作业的一站式 Flink 
 智能作业平台和 SQL 平台
 
 欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
-公众号目前正在调整中
+公众号属于佛系发布技术文章和开源心得
 
 <img src="./imgs/java_talkfun.png" alt="flink-china" style="zoom:40%;" />
 
@@ -29,13 +28,6 @@
 
 关注 **CSDN-云原生峰会-Flink专场**，获取当前最前Flink云原生技术，由我演讲的Flink K8S Operator 相关资料已在仓库中
 - [直播&回放入口](https://marketing.csdn.net/p/3babe71e2d4612a3092862aacf0f83ab)
-
-关注 尚硅谷最新发布Flink1.13课程 **2022版Flink1.13实战教程**，获取当前最新版本知识
-- [视频入口](https://www.bilibili.com/video/BV133411s7Sa)
-
-关注 尚硅谷与StreamX合作研发的课程 **【尚硅谷】大数据技术之StreamX（配置丨开发丨部署丨运维）**，获取当前前沿实时计算平台技术
-- [视频入口](https://www.bilibili.com/video/BV1wb4y1H76Q)
-
 
 ## Flink特性
 
