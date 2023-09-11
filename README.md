@@ -10,15 +10,17 @@
 - Apache Flink Contributor
 - Apache StreamPark Contributor
 
-各位好，我是来自 **Apache Flink** 社区志愿者 ConradJam， 目前主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发，为公司构建部署、提交作业的一站式 Flink 
+各位好，我是来自 **Apache Flink** 社区志愿者 ConradJam， 主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发等大数据周边相关工作
 智能作业平台和 SQL 平台
 
-欢迎关注 **Flink中文社区** 和 **Java大咖说（java_talkfun）** 了解更多一线Flink资讯
+欢迎关注 **Flink中文社区** 和 **开源之韵（asf_garden）** 了解更多一线Flink资讯
 公众号属于佛系发布技术文章和开源心得
 
-<img src="./imgs/java_talkfun.png" alt="flink-china" style="zoom:40%;" />
+<img src="./imgs/asf_garden.jpg" alt="flink-china" style="zoom:40%;" />
 
 # 最新消息
+关注 **Apache 2023 亚洲峰会**，了解Flink自动调优和其他前沿计算机技术
+- [Apache Asia 2023](https://apachecon.com/acasia2023/zh/tracks.html)
 
 关注 **FFA 2022**，获取当前最前Flink技术
 - [FFA大会入口](https://flink-forward.org.cn)
