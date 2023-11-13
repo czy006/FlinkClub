@@ -19,17 +19,21 @@
 <img src="./imgs/asf_garden.jpg" alt="flink-china" style="zoom:40%;" />
 
 # 最新消息
+
+关注 **FFA 2023**，获取当前最前前沿的Flink云原生技术
+- [FFA大会入口](https://flink-forward.org.cn)
+
 关注 **Apache 2023 亚洲峰会**，了解Flink自动调优和其他前沿计算机技术
 - [Apache Asia 2023](https://apachecon.com/acasia2023/zh/tracks.html)
-
-关注 **FFA 2022**，获取当前最前Flink技术
-- [FFA大会入口](https://flink-forward.org.cn)
 
 关注 **开源社-第七届开全球源峰会**，获取当前最前Flink K8S Operator 1.2版本中相关动态信息
 - [直播&回放入口](https://mp.weixin.qq.com/s/76ekZAfVs320GQ_xbEwwhQ)
 
 关注 **CSDN-云原生峰会-Flink专场**，获取当前最前Flink云原生技术，由我演讲的Flink K8S Operator 相关资料已在仓库中
 - [直播&回放入口](https://marketing.csdn.net/p/3babe71e2d4612a3092862aacf0f83ab)
+
+## Flink Operator
+- [FLINK K8S OPERATOR AUTOSCALING](https://apachecon.com/acasia2023/zh/sessions/streaming-1086.html)
 
 ## Flink特性
 
