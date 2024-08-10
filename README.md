@@ -7,6 +7,7 @@
 
 # 个人简介
 
+- Apache Amoro PPMC
 - Apache Flink Contributor
 - Apache StreamPark Contributor
 
