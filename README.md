@@ -12,7 +12,7 @@
 - Apache StreamPark Contributor
 
 各位好，我是来自 **Apache Flink** 社区志愿者 ConradJam， 主要负责基于 K8S 的 Flink 大数据部署作业平台构建与作业研发等大数据周边相关工作
-智能作业平台和 SQL 平台
+智能作业平台和 SQL 平台，目前负责湖仓一体，实时计算等相关工作
 
 欢迎关注 **Flink中文社区** 和 **开源之韵（asf_garden）** 了解更多一线Flink资讯
 公众号属于佛系发布技术文章和开源心得
@@ -47,6 +47,8 @@
 
 - [Flink CDC 2.0 设计与优化详解](https://mp.weixin.qq.com/s/No7vIFo1c6PlONIKTsPRNA)
 - [基于 Flink CDC 实时数据同步方案](https://mp.weixin.qq.com/s/QNJlacBUlkMT7ksKKSNa5Q)
+- [Flink CDC 在货拉拉的落地与实践](https://mp.weixin.qq.com/s/ZSc4ZPKwJQnfr_yDQHLzYg)
+- [Flink CDC 与 AMORO 融合入湖新体验](https://mp.weixin.qq.com/s/ZSc4ZPKwJQnfr_yDQHLzYg)
 
 ## 开源社区心得与体会
 - [Flink-2021优秀志愿者评选](https://mp.weixin.qq.com/s/xNdyecqpzBZtBukK04pRiQ)
